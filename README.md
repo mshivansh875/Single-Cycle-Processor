@@ -3,7 +3,7 @@ This is a single-cycle processor, meaning each instruction is executed in a sing
 
 The processor implements the SimpleRisc ISA, which supports:
 
-21 operations
+* 21 operations
 
 16 general-purpose registers, each 32 bits wide
 
